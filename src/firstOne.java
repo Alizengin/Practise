@@ -2,7 +2,8 @@
 public class firstOne {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		String ali = "Ali";
+		System.out.println(ali);
 
 	}
 
